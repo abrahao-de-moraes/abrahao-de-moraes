@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil🤍👩‍❤️‍👨
 
-<!--
-**abrahao-de-moraes/abrahao-de-moraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gabrielly Graciano
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
+
+### você pode entra em contato comigo
+
+0000111519966513spal.educacao.sp.gov.br
+
+![](https://media.tenor.com/Ar1SFDtDoQ0AAAAM/laughing-wanda.gif)
